@@ -1,2 +1,3 @@
 # Projet-azure-vm
-VM NA AZURE
+VM AZURE
+Documentando a criação de uma VM na Azure
