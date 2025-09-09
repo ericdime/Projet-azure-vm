@@ -3,7 +3,7 @@ Documentando a criação de uma VM na Azure
 
 Acessar o Portal: Faça login em portal.azure.com.
 
-Pesquise "Assinaturas caso não esteja na sua cara"
+Pesquise "Assinaturas" caso não esteja na sua cara. :)
 
 1 Criar a assinatura ou usar uma existente
 
@@ -39,3 +39,4 @@ Permita as portas necessárias (ex: RDP para Windows, SSH para Linux).
 8.Tags: Adicionei tags para organização e gerenciamento de custos. (mesmo sabendo que vou apagar na sequencia)
 
 9.Revisar + Criar: Revise todas as configurações e clique em Criar.
+Não esqueça de apagar apos o fim do laboratorio!
